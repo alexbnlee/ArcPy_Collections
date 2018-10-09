@@ -1,0 +1,8 @@
+代码编写通过sublime text 3
+
+中文注释需要在最前面加入 #coding=utf-8，否则会出错
+
+程序运行：
+1. 加入环境变量 C:\Python27\ArcGIS10.2\python.exe
+2. 打开 cmd，通过 python D:\01-Working\2017\20171204-IDL_Average\code_Python\Calculate_statistics.py 来运行
+3. 也可以直接双击运行
